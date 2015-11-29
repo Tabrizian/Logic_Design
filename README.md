@@ -4,4 +4,5 @@ Now this repository contains following circuits:
 * Half Adder  
 * Full Adder  
 * Ripple Adder
+* D Flip Flop
 
