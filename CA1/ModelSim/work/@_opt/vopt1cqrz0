@@ -1,0 +1,190 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\dell-iman\Desktop\Desktop\verilog
+T_opt
+VkBVKWgQQ6CEmHeLZ<44CO1
+04 7 4 work test_f1 fast 0
+=1-303a6431608c-565b46c0-1a6-1794
+Z1 o-quiet -auto_acc_if_foreign -work work
+n@_opt
+Z2 OL;O;10.1c;51
+T_opt1
+Vl:bY^ZP>?Ba5X91hESX7l1
+04 14 4 work test_f2_and_or fast 0
+=1-303a6431608c-565b3936-30a-1740
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt1
+R2
+Z3 dC:\Users\dell-iman\Desktop\Desktop\verilog
+T_opt2
+VzOb]n<]=6?f<aBXZz>bRL3
+04 7 4 work test_f2 fast 0
+=1-303a6431608c-565b4100-1dd-1bf4
+R1
+n@_opt2
+R2
+R3
+vf1
+Vi@j=>^_8M`ofV>S];ogNO0
+r1
+31
+InQ`UbNAn4:Jk9m]OKYjSG1
+Z4 dC:\Users\dell-iman\Documents\Universty\Term 3\Digital Design - Dr. Saheb\Digital Design - Dr. Saheb\ModelSim
+w1448816859
+Z5 8C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f1.v
+Z6 FC:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f1.v
+L0 1
+Z7 OL;L;10.1c;51
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z9 !s107 C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f1.v|
+Z10 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f1.v|
+!s100 7V_8F:MkYL^NKZ^QRe1^J1
+!s108 1448816859.607000
+!i10b 1
+!s85 0
+vf1_and_or
+IBo06LPimC0>XQN:lH_[3m0
+VV8g^@?04L;_FchIL<PC5l0
+R4
+Z11 w1448822427
+R5
+R6
+L0 1
+R7
+r1
+31
+Z12 !s108 1448822434.535000
+R9
+R10
+R8
+!i10b 1
+!s100 NWGhm@D<_i[a]4nQ@K1_i1
+!s85 0
+vf1_nand
+Ia2?1_]Cm8[SW^C@WbB2Gc3
+V;VBne?6V>ZG6^b=_S8jBe2
+R4
+R11
+R5
+R6
+L0 15
+R7
+r1
+31
+R12
+R9
+R10
+R8
+!i10b 1
+!s100 zcJ1hkHI6nc[TJ]D`7O8P2
+!s85 0
+vf1_nor
+IE=SInzGgDKR5jSU03FL@O0
+VG9KEGd>KKBW[d:Saf11Rl2
+R4
+R11
+R5
+R6
+L0 29
+R7
+r1
+31
+R12
+R9
+R10
+R8
+!i10b 1
+!s100 nIBP3:aa<dD82_=OzXjlk3
+!s85 0
+vf2_and_or
+V0OhUC6gBfChAhBneK;0:01
+r1
+31
+IjZfkDXZWJAW7]BZ1fmjH02
+R4
+Z13 w1448820944
+Z14 8C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f2.v
+Z15 FC:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f2.v
+L0 1
+R7
+Z16 !s108 1448820944.449000
+Z17 !s107 C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f2.v|
+Z18 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f2.v|
+R8
+!s100 GHV?10PWZ[_cl@2Pia`E:3
+!s85 0
+!i10b 1
+vf2_nand
+V7TSAPG4[Z=XXnd:O[kJLK1
+r1
+31
+Im9l3Yh5ANcPNZNM=Wo6IE0
+R4
+R13
+R14
+R15
+L0 11
+R7
+R16
+R17
+R18
+R8
+!s100 S8DH71c[_^O3m`LQ@S[2G2
+!s85 0
+!i10b 1
+vf2_nor
+VM=eYfKUOkPJDlzJ:[Fn1<1
+r1
+31
+IHS<b;iD0?f^Ez@AbDY@b^1
+R4
+R13
+R14
+R15
+L0 21
+R7
+R16
+R17
+R18
+R8
+!s100 =XMn`Bj:E_jK9YgOeRU?C1
+!s85 0
+!i10b 1
+vtest_f1
+IziITT^LOZYR^V?QQzCgWd2
+Vm4[<F0`dk;1Hn1Gaf<nHO0
+R4
+R11
+R5
+R6
+L0 42
+R7
+r1
+31
+R12
+R9
+R10
+R8
+!i10b 1
+!s100 1b2JD@T>dFM_CaG<61e^_0
+!s85 0
+vtest_f2
+V3@bgWW=7bbN7=91:J:4F;1
+r1
+31
+IXUUb0dO4TEigXCV`GzELF2
+R4
+R13
+R14
+R15
+L0 32
+R7
+R16
+R17
+R18
+R8
+!s100 YhFW251E?M?h<08GHgW[M1
+!s85 0
+!i10b 1

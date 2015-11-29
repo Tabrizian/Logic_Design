@@ -1,0 +1,11 @@
+{C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f2.v} {1 {vlog -work work -vopt {C:/Users/dell-iman/Documents/Universty/Term 3/Digital Design - Dr. Saheb/Digital Design - Dr. Saheb/ModelSim/f2.v}
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module f2_and_or
+-- Compiling module f2_nand
+-- Compiling module f2_nor
+-- Compiling module test_f2
+
+Top level modules:
+	test_f2
+
+} {} {}}
